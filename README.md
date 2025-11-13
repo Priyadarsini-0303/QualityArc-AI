@@ -26,6 +26,9 @@ It uses **text similarity** and **AI models** to find the most relevant API desc
 - **PostgreSQL** for database
 - **LangChain** for AI model connection
 
+##  Output:
+
+![demo](https://github.com/user-attachments/assets/41ed7cb7-ed81-4298-9626-e684784bf3f2)
 
 
 
