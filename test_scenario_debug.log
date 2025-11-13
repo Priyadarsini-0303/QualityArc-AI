@@ -1,0 +1,28 @@
+2025-06-23 18:09:29,446 - INFO - Use pytorch device_name: cpu
+2025-06-23 18:09:29,447 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-23 18:10:03,236 - INFO - Received user query: create test scenarios for Create API
+2025-06-23 18:11:18,355 - INFO - Use pytorch device_name: cpu
+2025-06-23 18:11:18,355 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-23 18:11:52,658 - INFO - Received user query: Create test scenarios for create API
+2025-06-24 14:56:15,576 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-24 15:10:04,439 - INFO - Use pytorch device_name: cpu
+2025-06-24 15:10:04,440 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-24 15:10:34,812 - INFO - Received user query: write test scenarios for create endpoint
+2025-06-24 15:10:37,840 - INFO - Best matching summary ID: 1764 with score: 0.37536316702432004
+2025-06-24 15:11:00,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-24 15:19:44,675 - INFO - Use pytorch device_name: cpu
+2025-06-24 15:19:44,675 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-24 15:19:58,589 - INFO - Received user query: give me test scenario for create 1099-LTC endpoint
+2025-06-24 15:20:00,700 - INFO - Best matching summary ID: 1775 with score: 0.5008316970121103
+2025-06-24 15:20:15,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-24 15:24:08,431 - INFO - Use pytorch device_name: cpu
+2025-06-24 15:24:08,431 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-24 15:24:31,857 - INFO - Received user query: give test scenarios for 1099 LTC submission 
+2025-06-24 15:24:33,946 - INFO - Best matching summary ID: 1775 with score: 0.5075589396952885
+2025-06-24 15:24:48,904 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-24 15:56:22,334 - INFO - Use pytorch device_name: cpu
+2025-06-24 15:56:22,334 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-24 15:56:27,389 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 15:59:08,994 - INFO - User query: create 1099-LTC
+2025-06-24 15:59:10,757 - WARNING - Error with record 1778: Incompatible dimension for X and Y matrices: X.shape[1] == 768 while Y.shape[1] == 384
+2025-06-24 15:59:10,757 - INFO - Matched summary ID: None with score: -1
